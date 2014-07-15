@@ -22,7 +22,7 @@ If you haven’t been there and are unsure how to access it, use one of the foll
 
 * Do not use overtly offensive language. (_self-explanatory_)
 
-* Please try to keep CAPS to a minimum. (_If you use excessive caps, you will be warned, and subsequent usages will be met with either a kick or a ban from the channel._)
+* Please try to keep CAPS to a minimum. (_If you use excessive caps, you will be automatically kicked from the channel._)
 
 * Respect others. (_self-explanatory_)
 
