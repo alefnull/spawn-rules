@@ -237,6 +237,15 @@ code, pre {
   color: #333;
   font-size: 12px;
   overflow-x: auto;
+  margin: 0;
+  border: 1px solid #ccc;
+  background-color: #f8f8f8;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+  padding: 3px 7px;
 }
 
 pre {
